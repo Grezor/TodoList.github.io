@@ -108,4 +108,4 @@ dist/
 # Temporary folders
 tmp/
 temp/
-
+.idea/

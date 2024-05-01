@@ -1,12 +1,11 @@
 ![todoList](https://user-images.githubusercontent.com/38507456/221426914-7a37a042-7801-4250-a8c0-3aef97f40861.png)
 
-- [Todo List](#todo-list)
-  - [Introduction](#introduction)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Illustration](#illustration)
-  - [Licence](#licence)
-  - [Author](#author)
+- [Introduction](#introduction)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Illustration](#illustration)
+- [Licence](#licence)
+- [Author](#author)
 
 ## Introduction
 Following my work-linked training, my company asked me to create a todoList. With Javascript and NodeJS languages
@@ -31,4 +30,4 @@ a stain, or to finish it off.
 ## Author
 **Duplessi Geoffrey** 
 
-*Updated on 2023-02-17*
+*Updated on 2024-05-01*
